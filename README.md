@@ -1,6 +1,6 @@
 # Greetr
 
-Greetr is a open source framework which helps users to create greetings on the fly using JS.
+Greetr is a open source library which helps users to create greetings on the fly in different languages using JS.
 
 Languages supported now:
   - English
