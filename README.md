@@ -13,7 +13,7 @@ Greetr uses these open source projects to work properly:
 
 * [jQuery](https://github.com/jquery/jquery) - jQuery is a JavaScript library designed to simplify HTML DOM tree traversal and manipulation, as well as event handling, CSS animation, and Ajax.
 
-And of course Greetr itself is open source with a [public repository][dill] -> on GitHub.
+And of course Greetr itself is open source with a [public repository][Greetr] -> on GitHub.
 
 ### Installation
 Download compressed folder from GitHub or clone directly.
@@ -50,7 +50,8 @@ Want to contribute? Great!
 ### Todos
  - Add more languages
  - Add more methods to use
-
+ 
+ 
 License
 ----
 
